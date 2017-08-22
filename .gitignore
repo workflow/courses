@@ -5,6 +5,7 @@ _site/
 data/
 *.pyc
 *.h5
+*.zip
 ai_aliases.sh
 fast-ai-commands.txt
 fast-ai-remove.sh
